@@ -13,3 +13,6 @@ API technologies
 ...
 
 Still open to a web developer or designer role in the job market, unfortunately I've been hindered in the most mysterious ways from landing a job.
+
+/////FINALLY FINISHED\\\\\\\\\\\\
+Just finished writing profile picture comment and reply process for commenting system via jquery-ajax and php. 1.5 days of double-tripple expresso's paid off
